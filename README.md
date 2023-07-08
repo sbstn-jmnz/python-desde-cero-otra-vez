@@ -20,5 +20,27 @@ Por ejemplo, no es posible sumar un texto, con un número (int, float), pero cur
 
 Por lo tanto es fundamental y muy necesario ejercitar con los diferentes tipo de valores.
 
-Además tenemos las variables, que permiten asociar un nombre con el valor para luego mediante el nombre utilizar o manipular el valor
+Además tenemos las variables, que permiten asociar un nombre con el valor para luego mediante el nombre utilizar o manipular el valor.
+
+```python
+some_var = 42
+other_var = "Hola Mundo"
+print(some_var)
+```
+
+Para controlar la ejecución del programa dependiendo del valor de alguna condición, tenemos las estructuras de control como el `if`, `elif` y `else`.
+
+Además Python tiene loops o iteradores para ejecutar varias sentencias en cada vuelta o iteración. Python tiene 2 loops el `while` y `for`.
+
+Finalmente mencionar que Python también trae algunas funciones predefinidas para hacer tareas comunes y frecuentes como la función `print()`
+
+- input(), int(), float(), len(), range(), print(), etc
+
+
+
+
+
+
+
+
 
